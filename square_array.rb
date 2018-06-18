@@ -3,4 +3,5 @@ def square_array(array)
   array.each do |a| 
   new_array.push(a*a)
   return new_array
+ end
 end
